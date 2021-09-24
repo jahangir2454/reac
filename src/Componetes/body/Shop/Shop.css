@@ -1,0 +1,18 @@
+.shop{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.search-content{
+    background: rgb(1, 70, 66);
+    line-height:50px;
+    text-align:center;
+}
+.search-content input{
+    width: 80%;
+    height:30px;
+    padding:0 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
